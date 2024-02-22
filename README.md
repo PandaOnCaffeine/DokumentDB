@@ -1,8 +1,6 @@
-# RavenDB
+# Reflekstion
 
-## Reflekstion
-
-### Hvordan var din oplevelse med at arbejde med en dokumentdatabase sammenlignet med en relationel database?
+## Hvordan var din oplevelse med at arbejde med en dokumentdatabase sammenlignet med en relationel database?
 
 Min oplevelse med at arbejde med dokumentdatabaser har været meget god, meget lærerigt og spændende.
 RavenDB har været nemt og en del anderledes fra relationel databaser.
@@ -12,35 +10,35 @@ I fremtiden ville jeg nok tænkte mere over om jeg skal bruge en dokumentdatabas
 Jeg kan helt klart se fordele ved dokumentdatabaser til bestemte projecter, men også ulemper til andre projecter, hvor en relationel database ville være bedre.
 
 Synes det har været lærerigt at arbejde med databaser fra en anden vinkel og vil helt klart arbejde vidre med det.
-### Hvilke fordele og udfordringer så du ved at bruge en dokumentdatabase til denne type data?
-#### Fordele:
+## Hvilke fordele og udfordringer så du ved at bruge en dokumentdatabase til denne type data?
+### Fordele:
 
-##### Fleksibilitet: 
+#### Fleksibilitet: 
 Dokumentdatabaser tillader skema-fri lagring af data, hvilket giver mulighed for en fleksibel datastruktur, der kan tilpasses ændringer i applikationskravene.
 
-##### Hurtig udvikling:
+#### Hurtig udvikling:
 På grund af deres skema-frie karakter kan udviklere hurtigt prototypere og ændre applikationer uden at skulle bekymre sig om skemaændringer og migrationsproblemer.
 
-##### Let læselig struktur: 
+#### Let læselig struktur: 
 Dokumenter gemmes normalt i JSON- eller lignende formater, hvilket gør dataene lette at læse og forstå, selv for dem uden dybdegående databaseerfaring.
  
 
-#### Ulemper:
+### Ulemper:
 
-##### Manglende komplekse relationer: 
+#### Manglende komplekse relationer: 
 I forhold til relationelle databaser kan dokumentdatabaser have svært ved at håndtere komplekse relationer og transaktioner, hvilket kan begrænse anvendeligheden i visse applikationsscenarier.
 
-##### Mindre avancerede spørgsmål: 
+#### Mindre avancerede spørgsmål: 
 Da dokumentdatabaser normalt ikke understøtter avancerede SQL-spørgsmål som JOIN, kan komplekse dataanalyse og rapporteringskrav være vanskelige at imødekomme.
 
-##### Skalering af ydeevne: 
+#### Skalering af ydeevne: 
 Mens dokumentdatabaser kan skalere horisontalt, kan ydeevnen af ​​nogle typer af spørgsmål og operationer blive forringet ved stor dataskalering.
 
-##### Datakonsistens: 
+#### Datakonsistens: 
 På grund af deres distribuerede natur kan dokumentdatabaser nogle gange opleve konsistensproblemer, hvilket kræver specifikke strategier for at håndtere og opretholde datakonsistens.
 
 
-### Hvordan føler du, at denne oplevelse har påvirket din forståelse af databaser generelt?
+## Hvordan føler du, at denne oplevelse har påvirket din forståelse af databaser generelt?
 
 Ved at have arbejdet med dokumentdataber, kommer jeg til at tænke på de ting der ikke ville fungere i MsSQL eller at de ting skulle laves på en anden måde for at virke.
 
